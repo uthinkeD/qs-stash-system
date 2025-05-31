@@ -17,7 +17,7 @@ Config.JobStashes = { -- Job-restricted stashes (only accessible by players with
         coords = vector3(-1067.7281, -1444.0941, -1.4201), -- Coordinates for the job stash
         stashId = "police_fridge",                         -- Unique ID for the stash (e.g. fridge)
         label = "Open Fridge",                             -- Label shown when interacting (e.g. "Open Fridge")
-        job = "police",                                    -- Job name required to access this stash (e.g. "koi" restaurant)
+        job = "police",                                    -- Job name required to access this stash (e.g. "police")
         grade = 0,                                         -- Minimum job grade required (0 = all employees)
         slots = 40,                                        -- Number of item slots
         weight = 80000                                     -- Max weight capacity (80kg)

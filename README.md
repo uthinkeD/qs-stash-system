@@ -2,7 +2,7 @@
 
 This is a lightweight and expandable **stash system** for FiveM, built using:
 - 🎯 [`ox_target`](https://github.com/overextended/ox_target) for interactions
-- 📦 [`qs-inventory`]((https://www.quasar-store.com/package/4770732)) for stash handling
+- 📦 [`qs-inventory`](https://www.quasar-store.com/package/4770732) for stash handling
 - 🧱 Based on the `es_extended` (ESX) framework
 
 ---
@@ -35,7 +35,7 @@ This script is **open source** and free to use. Modification is allowed.
 
 If you need help setting up or customizing the stash system, feel free to:
 
-- 💬 Open an [issue on GitHub]((https://github.com/uthinkeD/qs-stash-system/issues))
+- 💬 Open an [issue on GitHub](https://github.com/uthinkeD/qs-stash-system/issues)
 - 📩 Contact me directly on Discord: **u_think.**
 
 I'll try to respond as soon as possible!

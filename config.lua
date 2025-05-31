@@ -4,9 +4,9 @@ Config.Debug = false  -- Debug mode (useful for testing; shows extra info if set
 
 Config.Stashes = { -- Regular stashes that anyone can access (no job restrictions)
     {
-        coords = vec3(-1062.7104, -1471.2377, -1.1062), -- Coordinates where the stash is located
-        label = "Odpri Mizo",                           -- Label shown when interacting (e.g. "Open Table")
-        stashId = "koi_miza",                            -- Unique identifier for the stash (used internally)
+        coords = vec3(-1062.7104, -1471.2377, -1.1062),  -- Coordinates where the stash is located
+        label = "Open Fridge",                           -- Label shown when interacting (e.g. "Open Table")
+        stashId = "fridge",                              -- Unique identifier for the stash (used internally)
         slots = 60,                                      -- How many item slots the stash has
         weight = 150000                                  -- Maximum weight the stash can hold (in grams, e.g. 150kg)
     }
